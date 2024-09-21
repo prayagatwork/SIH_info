@@ -12,7 +12,7 @@ body {
     text-shadow: 3px 3px 0 #ff0000, 6px 6px 0 #00ccff, 9px 9px 0 #00ff00;
     animation: pulse 1.5s infinite alternate;
     transform: rotate(-5deg);
-    margin-left: 40%;
+    text-align: center;
 }
 .tri-color {
     position: absolute;
